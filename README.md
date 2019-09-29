@@ -1,2 +1,1 @@
-# ShadowBots
-its a game
+# ShadowBotsMod
