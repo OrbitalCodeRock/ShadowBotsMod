@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4eee2d76ca2b442fcbabae312decff0c
+timeCreated: 1517594789
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Pokemon Classic
+  fontNames:
+  - Pokemon Classic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
